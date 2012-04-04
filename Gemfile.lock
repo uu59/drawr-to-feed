@@ -1,0 +1,16 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    erubis (2.7.0)
+    mime-types (1.18)
+    nokogiri (1.5.2)
+    typhoeus (0.3.3)
+      mime-types
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  erubis
+  nokogiri
+  typhoeus

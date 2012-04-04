@@ -1,0 +1,1 @@
+    ./drawr_to_feed.rb -i 3092861 --stdout > ~/Dropbox/Public/drawr-3092861.atom
